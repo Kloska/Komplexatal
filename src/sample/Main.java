@@ -1,4 +1,4 @@
-package sample;
+package Komplex.Komplexatal.src.sample;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

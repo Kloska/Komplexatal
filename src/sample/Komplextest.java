@@ -1,4 +1,4 @@
-package sample;
+package Komplex.Komplexatal.src.sample;
 
 public class Komplextest {
 
